@@ -1,0 +1,4 @@
+github.com/auttaja/go-tlru v0.0.0-20200823214418-2a1d18ce6d93 h1:8ashxgs78n0bhN4nM3K8UppFW3mhoNAKj2Q7r06fXnY=
+github.com/auttaja/go-tlru v0.0.0-20200823214418-2a1d18ce6d93/go.mod h1:3v4VhE17ier0Q73R+4NHK4+2aSJYy6jUZhzp2OM+DM4=
+github.com/lib/pq v1.8.0 h1:9xohqzkUwzR4Ga4ivdTcawVS89YSDVxXMa3xJX3cGzg=
+github.com/lib/pq v1.8.0/go.mod h1:AlVN5x4E4T544tWzH6hKfbfQvm3HdbOxrmggDNAPY9o=
